@@ -1,0 +1,9 @@
+var a := 5;
+var b := 6;
+var c := a + b;
+var d := 7;
+list e := a.b;
+push(d,e);
+top(e);
+pop(e);
+list f := cons(a.d,e)

@@ -1,0 +1,12 @@
+w:= true;
+while w do push(pop(a.b.f),push(b,c.d.e));
+              pop(_);
+              top(ciao);
+              top(_);
+              push(_,_);
+              top(pop(push(a,ab.cd.ef)));
+              push(a.b,ab.cd.ef);
+              cons(a.b,c.d);
+              a:=a;
+              w:=false
+              endw
